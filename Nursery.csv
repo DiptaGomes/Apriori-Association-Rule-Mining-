@@ -1,4 +1,5 @@
-﻿usual,proper,complete,1,convenient,convenient,nonprob,recommended,recommend
+parents,has_nurs,form,children,housing,finance,social,health,health_family
+usual,proper,complete,1,convenient,convenient,nonprob,recommended,recommend
 usual,proper,complete,1,convenient,convenient,nonprob,priority,priority
 usual,proper,complete,1,convenient,convenient,nonprob,not_recom,not_recom
 usual,proper,complete,1,convenient,convenient,slightly_prob,recommended,recommend
@@ -9407,4 +9408,4 @@ great_pret,proper,foster,3,convenient,inconv,nonprob,recommended,priority
 great_pret,proper,foster,3,convenient,inconv,nonprob,priority,spec_prior
 great_pret,proper,foster,3,convenient,inconv,nonprob,not_recom,not_recom
 great_pret,proper,foster,3,convenient,inconv,slightly_prob,recommended,priority
-great_pret,proper,foster,3,convenient
+great_pret,proper,foster,3,convenien,,,,
